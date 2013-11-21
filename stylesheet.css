@@ -1,0 +1,49 @@
+#cookie {
+    width:300px;
+    height:300px;
+    display:block;
+}
+
+.center {
+    margin-left:auto;
+    margin-right:auto;
+}
+
+div[id^="upgrade"] {
+	border:2px solid black;
+	border-radius:5px;
+	width:300px;
+	height:50px;
+	background-color:gray;
+	opacity:0.8;
+}
+
+p {
+    font-family:Calibri;
+    text-align: center;
+}
+
+.upgradeDesc {
+    font-size:1em;
+    padding:0;
+    margin:10px 0 0 0;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.upgradeCost {
+    font-size:0.8em;
+    color:#bb0000;
+    padding:0;
+    margin:0;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
